@@ -1,0 +1,2 @@
+﻿CREATE PROC PROC_LOGIN @USERN nvarchar(50), @PASS nvarchar(50)
+AS SELECT * FROM TAI_KHOAN WHERE Username=@USERN AND Password=@PASS

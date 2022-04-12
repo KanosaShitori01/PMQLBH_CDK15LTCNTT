@@ -1,0 +1,20 @@
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\BUS.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\BUS.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\DAL.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\DAL.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\DTO.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\BUS\bin\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\BUS.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\BUS.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\DAL.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\DTO.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\DAL.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\bin\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\BUS\obj\Debug\BUS.pdb

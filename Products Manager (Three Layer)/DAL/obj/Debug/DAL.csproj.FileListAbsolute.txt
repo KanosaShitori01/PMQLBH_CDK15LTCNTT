@@ -1,0 +1,16 @@
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\bin\Debug\DAL.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\bin\Debug\DAL.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\bin\Debug\DTO.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\bin\Debug\DTO.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\bin\Debug\DAL.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\bin\Debug\DAL.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\bin\Debug\DTO.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\bin\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DAL\obj\Debug\DAL.pdb

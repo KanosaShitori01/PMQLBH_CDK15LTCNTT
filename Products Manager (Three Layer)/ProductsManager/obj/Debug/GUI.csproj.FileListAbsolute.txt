@@ -1,0 +1,38 @@
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.Login.resources
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.PMQLBH.resources
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.exe
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.exe.config
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.exe
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\BUS.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DTO.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\BUS.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DTO.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.Properties.Resources.resources
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csproj.CopyComplete
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DAL.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DAL.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.AddProduct.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.exe.config
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.exe
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.exe
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\ProductsManager.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\BUS.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DTO.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DAL.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\BUS.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\bin\Debug\DAL.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.AddProduct.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.Login.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.PMQLBH.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.Properties.Resources.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.AddSuppiler.resources
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\ProductsManager\obj\Debug\ProductsManager.ListSuppilers.resources

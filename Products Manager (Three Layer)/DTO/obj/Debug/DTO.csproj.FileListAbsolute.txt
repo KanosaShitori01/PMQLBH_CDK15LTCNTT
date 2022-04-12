@@ -1,0 +1,11 @@
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\bin\Debug\DTO.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\bin\Debug\DTO.pdb
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.dll
+D:\Program File (K.N)\GitHub\PMQLBN_CDK15LTCNTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DTO\bin\Debug\DTO.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DTO\bin\Debug\DTO.pdb
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.dll
+D:\Csharp_Exams\QLBH_DTT\Products Manager (Three Layer)\DTO\obj\Debug\DTO.pdb

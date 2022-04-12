@@ -1,0 +1,5 @@
+D:\Csharp_Exams\Project Products Manager\ProductsManager\SqlClient\bin\Debug\SqlClient.dll
+D:\Csharp_Exams\Project Products Manager\ProductsManager\SqlClient\bin\Debug\SqlClient.pdb
+D:\Csharp_Exams\Project Products Manager\ProductsManager\SqlClient\obj\Debug\SqlClient.csprojResolveAssemblyReference.cache
+D:\Csharp_Exams\Project Products Manager\ProductsManager\SqlClient\obj\Debug\SqlClient.dll
+D:\Csharp_Exams\Project Products Manager\ProductsManager\SqlClient\obj\Debug\SqlClient.pdb
